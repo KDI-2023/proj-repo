@@ -16,3 +16,6 @@
 [submodule "Web Page/viewer"]
 	path = Web Page/viewer
 	url = https://github.com/KDI-2023/viewer.git
+[submodule "Web Page/flask-ui"]
+	path = Web Page/flask-ui
+	url = https://github.com/KDI-2023/flask-ui.git
