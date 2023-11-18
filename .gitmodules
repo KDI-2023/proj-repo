@@ -19,3 +19,6 @@
 [submodule "Web Page/flask-ui"]
 	path = Web Page/flask-ui
 	url = https://github.com/KDI-2023/flask-ui.git
+[submodule "Documentation/docs"]
+	path = Documentation/docs
+	url = https://github.com/KDI-2023/docs.git
