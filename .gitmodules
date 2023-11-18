@@ -4,3 +4,6 @@
 [submodule "Ontology/ontology"]
 	path = Ontology/ontology
 	url = https://github.com/KDI-2023/ontology.git
+[submodule "Information Gathering/testdb"]
+	path = Information Gathering/testdb
+	url = https://github.com/KDI-2023/testdb.git
