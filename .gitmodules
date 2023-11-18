@@ -13,3 +13,6 @@
 [submodule "Knowledge Graph/mkcql"]
 	path = Knowledge Graph/mkcql
 	url = https://github.com/KDI-2023/mkcql.git
+[submodule "Web Page/viewer"]
+	path = Web Page/viewer
+	url = https://github.com/KDI-2023/viewer.git
