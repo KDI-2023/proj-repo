@@ -10,3 +10,6 @@
 [submodule "Knowledge Graph/execql"]
 	path = Knowledge Graph/execql
 	url = https://github.com/KDI-2023/execql.git
+[submodule "Knowledge Graph/mkcql"]
+	path = Knowledge Graph/mkcql
+	url = https://github.com/KDI-2023/mkcql.git
