@@ -1,3 +1,6 @@
 [submodule "Documentation/ppt"]
 	path = Documentation/ppt
 	url = https://github.com/KDI-2023/ppt.git
+[submodule "Ontology/ontology"]
+	path = Ontology/ontology
+	url = https://github.com/KDI-2023/ontology.git
