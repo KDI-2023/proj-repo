@@ -7,3 +7,6 @@
 [submodule "Information Gathering/testdb"]
 	path = Information Gathering/testdb
 	url = https://github.com/KDI-2023/testdb.git
+[submodule "Knowledge Graph/execql"]
+	path = Knowledge Graph/execql
+	url = https://github.com/KDI-2023/execql.git
